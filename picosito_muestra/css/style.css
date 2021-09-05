@@ -1,0 +1,66 @@
+a{
+    color:green !important;
+}
+
+.navbar-light{
+    background: white !important;
+    border-bottom: 2px solid red ;
+}
+
+.eslogan{
+    text-align: center;
+}
+
+
+.slider1txt1{
+    position: absolute;
+     top: 200px; 
+     left:200px;  
+}
+
+.slider1txt2 {  
+    position: absolute;
+     top: 300px; 
+     left:200px;
+  
+    }
+.eslogancont{
+        display: flex;
+        margin: center;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+}
+
+.divcontacto{
+    display: flex;
+    height: 300px;
+    width: 100%;
+   background-image:linear-gradient( rgba(226, 45, 45, 0.5), rgba(255, 255, 255, 0.6)), url("../img/Inicio_contacto.jpg");
+   background-size: cover;
+   justify-content: center;
+   
+   
+}
+.txtcontacto{
+ 
+ font-size: 100px;
+ height: 20%;
+
+}
+
+.rowcontacto{
+    justify-content: center;
+    text-align: center;
+}
+
+.btncontacto{
+    width: 25%;
+   background-color: white;
+   color: rgba(130, 184, 26, 1);
+    height: 20%;
+   
+}
+
+   
+
